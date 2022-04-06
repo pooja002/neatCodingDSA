@@ -1,8 +1,8 @@
 # neatCodingDSA
 Collection of DSA problems solved during my interview prep. Below are the topics that I aim to cover as part of this repo
 
-1. Arrays & Hashing \
-2. Two Pointers \
+1. Arrays & Hashing 
+2. Two Pointers 
 3. Sliding Window\
 4. Stack\
 5. Binary Search\
